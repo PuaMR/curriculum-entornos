@@ -106,14 +106,14 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
+        #- name: Git learning
+         # start: 2019
+          #end:
+          #organization: Microsoft
+          #credentialid: 111-222
+          #credentialurl: www.github.com
+          #credentialname: Github
+          #details: |
             Older certification. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
             Nullam eget orci purus. Nullam ultrices neque nibh.
