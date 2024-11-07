@@ -36,10 +36,10 @@ sidebar:
     languages:
       title: Languages
       info:
-        - language: English
+        - idiom: English
           level: C1
 
-        - language: Spanish
+        - idiom: Spanish 
           level: Native
 
     interests:
@@ -57,7 +57,7 @@ sidebar:
 career-profile:
     title: Software developer
     summary: |
-      I develop software for niggers
+      I develop software for my classes.
 education:
     title: Education
     info:
@@ -70,10 +70,10 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
+      - role: I have no prior work experiences
+        #time: 2014 - 2015
+        #company: Google, London
+        #details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
