@@ -56,15 +56,15 @@ sidebar:
 
 career-profile:
     title: Software developer
-    summary: |
-      I program in languages such as html, css and java for my classes.
+    summary: 
+      I program in languages such as html, css and java for my classes
 education:
     title: Education
     info:
       - degree: Sistemas microinformáticos y redes
         university: Ies Benigasló
         time: 2022 - 2024
-        details: |
+        details: 
             I recieved formation on setting up networks, solving computer problems, programming and mounting computers.
 
 experiences:
